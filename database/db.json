@@ -1,0 +1,7 @@
+{
+    "jobs" : [
+        {"title" : "project manager", "id" : 1, "detail": "creative coder project manager"},
+        {"title" : "web designer", "id" : 2, "detail": "creative coder web designer"},
+        {"title" : "web developer", "id" : 3, "detail": "creative coder web developer"}
+    ]
+}
